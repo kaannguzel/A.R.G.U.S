@@ -6,3 +6,7 @@
 dataset/
 data/
 videos/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
